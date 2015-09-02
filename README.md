@@ -1,6 +1,6 @@
 ### whweb-misc
 
-This repo holds miscellaneous related to **World Heritage Web** projects, including the **whweb** application kept separately in [kgeographer/whweb](https://github.com/kgeographer/whweb) the repository. This work is the resurfacing of work initiated in 2001 and largely dormant since 2004. 
+This repo holds miscellaneous items related to **World Heritage Web** projects, including the **whweb** application kept separately in [kgeographer/whweb](https://github.com/kgeographer/whweb) the repository. This work is the resurfacing of work initiated in 2001 and largely dormant since 2004. 
 
 * * *
 
